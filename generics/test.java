@@ -1,3 +1,4 @@
+import java.util.*;
 class Test<T> {
     void compare(T x, T y) {
         if (x.equals(y)) {
